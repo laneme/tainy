@@ -5,6 +5,7 @@ This demo is based on a barebones _CRA (create-react-app)_ starter. No styling, 
 ### Steps
 
 -   Clone this repo
+-   `git checkout with-cra`
 -   `yarn`
 -   `yarn start`
 -   Visit `localhost:3000`
