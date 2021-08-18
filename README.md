@@ -10,6 +10,10 @@ No styling, no deps other than `tinymce` and `tinymce-react`.
 -   `yarn dev`
 -   Visit `localhost:3000`
 
+### Other branches
+
+-   **with-cra** - CRA (create-react-app) demo
+
 If you want, replace the `initialValue` to anything. Or just paste into the editor.
 
 Make sure the texts are few pages long.
