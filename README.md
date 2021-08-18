@@ -10,6 +10,11 @@ This demo is based on a barebones _CRA (create-react-app)_ starter. No styling, 
 -   `yarn start`
 -   Visit `localhost:3000`
 
+### Api key
+
+-   Put your API key in .env.local file. Name it `REACT_APP_TINYKEY`
+-   Or edit the line in src/index.tsx `apiKey={process.env.REACT_APP_TINYKEY}`
+
 ### Other branches
 
 -   **main** - NextJS Demo
