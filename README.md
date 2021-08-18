@@ -10,6 +10,11 @@ No styling, no deps other than `tinymce` and `tinymce-react`.
 -   `yarn dev`
 -   Visit `localhost:3000`
 
+### Api key
+
+-   Put your API key in .env.local file. Name it `NEXT_PUBLIC_TINYKEY`
+-   Or edit the line pages/index.tsx `apiKey={process.env.NEXT_PUBLIC_TINYKEY}`
+
 ### Other branches
 
 -   **with-cra** - CRA (create-react-app) demo
