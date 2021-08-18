@@ -4,14 +4,14 @@ This demo is based on a barebones _CRA (create-react-app)_ starter. No styling, 
 
 ### Steps
 
-    - Clone this repo
-    - ```yarn```
-    - ```yarn start```
-    - Visit `localhost:3000`
+-   Clone this repo
+-   `yarn`
+-   `yarn start`
+-   Visit `localhost:3000`
 
 ### Other branches
 
-**main** - NextJS Demo
+-   **main** - NextJS Demo
 
 If you want, replace the initialValue to anything. Or just paste into the editor.
 
